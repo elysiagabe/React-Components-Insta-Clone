@@ -23,7 +23,7 @@
 }
 
 .post-image {
-  width: 100%;
+  width: 98%;
 }
 
 .post-header {
@@ -50,7 +50,8 @@
   margin: 10px;
 }
 .like-number {
-  width: 100px;
-  margin: 15px 0px;
+  width: 100%;
+  text-align: left;
+  margin: 9px;
   font-size: 16px;
 }
